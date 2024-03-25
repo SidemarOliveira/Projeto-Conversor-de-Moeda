@@ -1,6 +1,7 @@
 <h1 align = "center">Conversor de moedas</h1>
 <br>
 <br>
+<br>
 <h2>Um conversor de moeda é um sistema que calcula e iguala moedas de diferentes países. </h2>
 <h4>O conversor de moeda posssibilada que o usuário insiro o valor e selecione a moeda com qual pretende equivalência. </h3>
 <br>
